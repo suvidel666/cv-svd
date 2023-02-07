@@ -1,0 +1,22 @@
+body{
+  background-color: lightgreen
+}
+h1{
+  color:#3CB371;
+  font-size: 30pt;
+
+}
+h2{
+  color:#2E8B57;
+  font-size: 20pt;
+}
+p{
+  color:#00cc66;
+  font-size: 15pt;
+}
+hr{
+ border-color: grey;
+ border-width: 5px;
+ border-style: dotted none none;
+ width: 5%
+}
